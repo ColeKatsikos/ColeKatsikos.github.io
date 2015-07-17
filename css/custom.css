@@ -1,0 +1,17 @@
+.backgroundimg {
+    background-image: url("/js/test.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    color: blue;
+}
+
+h1 {
+    color: #00ff00;
+}
+
+h2 {
+    color: rgb(255,0,0);
+}
